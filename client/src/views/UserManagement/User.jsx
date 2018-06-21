@@ -111,11 +111,11 @@ class UserManagement extends Component {
         super()
         this.state = {
             data : [
-                {fname:"Siva", lname:"Prakash", email:"siva@mail.com", userLevel:"Manager", mobile:"9876543120", check : true},
-                {fname:"Siva", lname:"Prakash", email:"siva@mail.com", userLevel:"Manager", mobile:"9876543120", check : true},
-                {fname:"Siva", lname:"Prakash", email:"siva@mail.com", userLevel:"Manager", mobile:"9876543120", check : false},
-                {fname:"Siva", lname:"Prakash", email:"siva@mail.com", userLevel:"Manager", mobile:"9876543120", check : false},
-                {fname:"Siva", lname:"Prakash", email:"siva@mail.com", userLevel:"Manager", mobile:"9876543120", check : true}
+                {fname:"Bhairavi", lname:"Nalla", email:"bhai@mail.com", userLevel:"Manager", mobile:"9876543120", check : true},
+                {fname:"Bhairavi", lname:"Nalla", email:"bhai@mail.com", userLevel:"Manager", mobile:"9876543120", check : true},
+                {fname:"Bhairavi", lname:"Nalla", email:"bhai@mail.com", userLevel:"Manager", mobile:"9876543120", check : false},
+                {fname:"Bhairavi", lname:"Nalla", email:"bhai@mail.com", userLevel:"Manager", mobile:"9876543120", check : false},
+                {fname:"Bhairavi", lname:"Nalla", email:"bhai@mail.com", userLevel:"Manager", mobile:"9876543120", check : true}
             ],
             emptyRows : 0,
             checkedA :true,
