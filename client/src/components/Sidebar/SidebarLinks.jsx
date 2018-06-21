@@ -20,7 +20,7 @@ import SupervisorAccount from '@material-ui/icons/SupervisorAccount';
 import Settings from '@material-ui/icons/Settings';
 import classNames from 'classnames';
 import Util from './../../lib/Util';
-import image1 from 'logo.png';
+import image1 from 'logo.svg';
 
 
 const styles = theme => ({
